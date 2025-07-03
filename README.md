@@ -17,7 +17,7 @@
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pankajamalshan/)
 - [Twitter](https://twitter.com/pankajamalshan)
-- [Personal Website](https://pankaja2328.github.io)
+- [Personal Website](https://pankaja2328.github.io/PortFolio/)
 
 ## GitHub Stats
 ![Pankaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankaja2328&show_icons=true&theme=radical)
